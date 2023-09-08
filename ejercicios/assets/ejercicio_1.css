@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content-wrapper {
+    border: 2px solid #000;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 99vh;
+    min-width: 400px;
+    gap: 24px;
+}
+
+.content-wrapper .box {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #024059;
+    background-color: #FFC0CB;
+    width: 47%;
+
+    color: #000;
+    font-size: 75px;
+}
+
+.content-wrapper .box1 {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #024059;
+    background-color: #FFC0CB;
+    width: 96%;
+
+    color: #000;
+    font-size: 75px;
+}
