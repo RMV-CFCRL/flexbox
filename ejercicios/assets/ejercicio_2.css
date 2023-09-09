@@ -12,45 +12,32 @@
     height: 99vh;
     min-width: 400px;
     gap: 24px;
+    padding: 24px;
 }
 
 .content-wrapper .box {
     display: flex;
     justify-content: center;
     align-items:center;
-    border: 1px solid #024059;
     background-color: #fff;
     width: 47%;
-    row-gap: 99px;
-    margin-top: 3%;
-    margin-bottom: 1%;
-    
-
+    gap: 24px;
     color: #0e82f0;
     font-size: 75px;
+    min-width: 400px;
 }
 
 .content-wrapper .box1 {
-    display: flex;
-    justify-content: center;
     border: 1px solid #024059;
     background-color: #fff;
     width: 30.7%;
-    margin-bottom: 1%;
-
-    color: #0e82f0;
-    font-size: 75px;
+    min-width: 400px;
 }
 
 .content-wrapper .box2 {
-    display: flex;
-    justify-content: center;
     border: 1px solid #024059;
     background-color: #fff;
     width: 96%;
-
-    color: #0e82f0;
-    font-size: 75px;
-    margin-bottom: 2%;
+    min-width: 400px;
 }
 
