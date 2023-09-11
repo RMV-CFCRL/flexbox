@@ -16,6 +16,7 @@
 .content-wrapper .box {
     display: flex;
     justify-content: center;
+    align-items: center;
     border: 1px solid #024059;
     background-color: #FFC0CB;
     width: 47%;
@@ -26,6 +27,7 @@
 .content-wrapper .box1 {
     display: flex;
     justify-content: center;
+    align-items: center;
     border: 1px solid #024059;
     background-color: #FFC0CB;
     width: 96%;

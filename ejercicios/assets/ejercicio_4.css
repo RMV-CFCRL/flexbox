@@ -12,6 +12,7 @@
     height: 99vh;
     min-width: 400px;
     gap: 24px;
+    padding: 24px;
 }
 
 .content-wrapper .box {
